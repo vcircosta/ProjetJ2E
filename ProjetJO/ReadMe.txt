@@ -10,8 +10,8 @@ Il s'agit d'une application Spring Boot pour la gestion de la billetterie des Je
 
 ## Prérequis
 
-- Java 11 ou version supérieure
-- Maven
+- Java 17
+- Maven 4
 - IDE (comme IntelliJ IDEA, Eclipse, etc.)
 
 ## Installation
